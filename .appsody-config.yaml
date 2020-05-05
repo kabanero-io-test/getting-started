@@ -1,2 +1,2 @@
-project-name: cp4apps1
+project-name: getting-started
 stack: docker.io/kabanero/java-openliberty:0.2
